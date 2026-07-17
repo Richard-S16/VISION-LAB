@@ -1,5 +1,4 @@
 https://github.com/user-attachments/assets/d2f4681c-adcb-4fd5-b423-2a55605b93f1
-Uploading VISION_LAB — Live Object Detection - Brave 2026-07-17 16-17-18.mp4…
 
 
 # VISION/LAB
